@@ -91,12 +91,13 @@ body{
 }
 .btn-des{
     font-size: 12px;
-    /* width: 150px; */
+    width: 150px;
     height: 9px;
 }
 .bkash-logo{
     width: 20px;
     height: 18.26;
+    padding: 20px;
     
 }
 
