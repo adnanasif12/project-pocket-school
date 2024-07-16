@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+/* font-family: "Hind Siliguri", sans-serif; */
+
+
+body{
+    margin: 0px;
+} 
+.header{
+    /* width: 1441px;
+    height: 144px;
+    padding: 0px 120px 0px 120px;
+    gap: 10px;
+    opacity: 0px; */
+    width: Hug (1,441px)px;
+    height: Hug (144px)px;
+    padding: 0px 120px 0px 120px;
+    gap: 10px;
+    opacity: 0px;
+
+
+
+}
+.header-part{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    /* margin: 0 120px;
+    width: 1201px;
+    height: 144px;
+    padding: 40px 0px 20px 0px;
+    gap: 280px;
+    border: 0px 0px 0.5px 0px;
+    opacity: 0px; */
+   
+    width: Hug (1,201px)px;
+    height: Hug (144px)px;
+    padding: 40px 0px 20px 0px;
+    gap: 280px;
+    border: 0px 0px 0.5px 0px;
+    opacity: 0px;
+
+
+}
+.h1{
+    margin-top: 0px;
+    color: rgba(24, 24, 24, 1);
+}
+.title{
+    margin-top: 40px;
+    color:rgba(24, 24, 24, 1);
+}
+.title-heading{
+    text-align: center;
+    
+}
+.primari-btn{
+    border-radius: 10px;
+    height: 48px;
+    width: 110px;
+    background-color: white;
+    border-color: rgba(114, 204, 255, 1) ;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.payment-btn{
+    width: 421px;
+    height: 48px;
+    border-radius: 44px;
+    background-color: rgba(255, 0, 0, 1);
+    border: none;
+
+}
+.payment-logo{
+    display: flex;
+    width: 138px;
+    height: 18.26px;
+    gap: 26px;
+    text-align: center;
+    /* padding: 141px 74px 141px 0px; */
+    padding-top: 2px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: none;
+}
+.btn-des{
+    font-size: 12px;
+    /* width: 150px; */
+    height: 9px;
+}
+.bkash-logo{
+    width: 20px;
+    height: 18.26;
+    
+}
+
+
+
+
+/* .primari-btn{
+    border-radius: 10px;
+    height: 48px;
+    width: 110px;
+    background-color: white;
+    border-color: rgba(114, 204, 255, 1) ;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    text-align: center;
+  
+} */
+/* codding fundamantals */
+
+.main-container{
+    display: flex;
+    margin-left: 284px;
+    margin-right: 284px;
+    margin-top: 70px;
+    gap: 56px;
+    justify-content: space-between;
+    
+
+}
+.coding-fundamantal{
+    padding: 0px;
+}
+.coding-fundamantal-two{
+   padding-right: 100px;
+}
+.your-name, 
+.your-email, 
+.your-phone{
+    width: 421px;
+    height: 48px;
+    border-radius: 12px;
+    background-color:rgba(242, 242, 242, 1);
+    border: none;
+}
+.icon{
+    height: 15px;
+    width: 15px;
+    padding: 20px;
+    
+}
+.refund{
+   
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 10px;
+    padding: 70px, 284px, 70px, 284px;
+    height: 501px;
+    width: 395px;
+    
+    
+}
+.refund-policy{
+    padding: 10px;
+}
+.flex, .media-image{
+    display: flex;
+    gap: 2px;
+    
+    
+    /* margin-top: 0px; */
+}
+.refund-media{
+    
+    background-color: rgba(242, 242, 242, 1);
+   
+    border-radius: 10px;
+    padding: 70px, 284px, 70px, 284px;
+    height: 401px;
+    width: 395px;
+    
+}
+.refund-media-head{
+    /* padding-top: 0px; */
+    margin-top: 30px;
+    margin-left: 15px;
+    padding: 10px;
+}
+.iframe-one{
+    padding: 24px;
+    padding-top: 0px;
+    border-radius: 10px;
+    width: 347px;
+    height: 209px;
+}
+.horaizental{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.num-color{
+    color: rgba(255, 0, 0, 1);
+}
+.contract-number{
+    margin-top: none;
+    padding: 16px;
+    padding-top: 0px;
+
+}
+.contract-icon{
+    height: 25px;
+    width: 25px;
+    padding: 10px;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+
+
+
