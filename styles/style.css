@@ -69,9 +69,11 @@ body{
 .payment-btn{
     width: 421px;
     height: 48px;
-    border-radius: 44px;
-    background-color: rgba(255, 0, 0, 1);
+    border-radius: 12px;
+    background-color:rgba(221, 19, 97, 1);
     border: none;
+    /* padding: 20px; */
+    text-align: center;
 
 }
 .payment-logo{
@@ -97,21 +99,6 @@ body{
     
 }
 
-
-
-
-/* .primari-btn{
-    border-radius: 10px;
-    height: 48px;
-    width: 110px;
-    background-color: white;
-    border-color: rgba(114, 204, 255, 1) ;
-    font-size: 16px;
-    font-weight: 400px;
-    line-height: 24px;
-    text-align: center;
-  
-} */
 /* codding fundamantals */
 
 .main-container{
